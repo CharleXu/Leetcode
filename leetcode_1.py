@@ -1,3 +1,6 @@
+# coding: utf-8
+
+
 def twoSum(nums, target):
     num_dict = {}
     for i in range(len(nums)):

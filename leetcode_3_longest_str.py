@@ -1,4 +1,4 @@
-# coding=utf-8
+# coding: utf-8
 
 
 def length_of_longest_substring(s):
